@@ -1,0 +1,6 @@
+package bikescheme;
+
+public class FaultButtonObserver {
+	 public void buttonPressed() {
+	}
+}
